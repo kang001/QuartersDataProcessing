@@ -1,0 +1,11 @@
+Authors:
+Boris, Natalman, Kara
+
+This application:
+Using beautiful soup to get the data from
+Wikipedia like the state, year, and the coin.
+The data will be set up as a table.
+
+Using Django to create the website to display the data.
+
+We will need to create a file to pull the images too.
