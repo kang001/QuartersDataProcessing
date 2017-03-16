@@ -1,1 +1,5 @@
-/Venv
+/venv
+venv
+__pycache__
+*.pyc
+requirements.txt
